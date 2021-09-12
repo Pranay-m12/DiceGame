@@ -20,6 +20,6 @@ else{
     document.querySelector("h1").innerHTML="Draw";
 }
 }
-function reload() {
-    reload = location.reload();
+function hreload() {
+     location.reload();
 }
