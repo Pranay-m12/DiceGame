@@ -1,0 +1,30 @@
+.fit{
+    height: 250px;
+    background-color: #9D9D9D;
+    border: 2px solid black;
+  border-radius: 5px;
+}
+body{
+    text-align: center;
+    margin-top: 2.5%;
+    background-color:#79B4B7;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.edit{
+    color: #F8F0DF;
+    font-size: 440%;
+}
+#hplayer{
+    color:#FEFBF3;
+    font-size: 150%;
+}
+.d{
+    background-color: #9D9D9D;
+  border: 1px 1px 1px 1px;
+  color: white;
+  padding: 10px 15px;
+  font-size: 20px;
+}
